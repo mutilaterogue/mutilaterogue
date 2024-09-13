@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mutilaterogue
 - 👀 I’m interested in World of Warcraft modding.
 - 🌱 I’m currently learning programming languages - "SQL, XML, C++ & Lua". Also exploring IDE's for PL's.
-- 💞️ I’m not looking to collaborate.
 - 📫 How to reach me mutirogue50@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Love Classical Music like Beethoven, Mozart etc.
